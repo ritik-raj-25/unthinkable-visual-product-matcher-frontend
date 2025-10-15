@@ -7,21 +7,21 @@ This repository contains the **frontend** of the Visual Product Matcher app, imp
 ## 🛠 Tech Stack
 
 - **Frontend:** React (Vite)  
-- **Backend API:** Spring Boot backend (see backend repo)  
+- **Backend API:** Spring Boot backend [Backend Repository](https://github.com/ritik-raj-25/unthinkable-visual-product-backend) 
 - **Deployment:** Railway (backend), Railway (frontend)
 
 ---
 
 ## 🚀 Deployment
 
-- **Frontend:** [Frontend Link](https://silver-madeleine-241ed2.netlify.app)  
-- **Backend URL:** [Backend Link](https://unthinkable-visual-product-backend-production-0a98.up.railway.app)
+- **Frontend:** [Frontend Link](https://visualproductmatcherassignment.netlify.app)  
+- **Backend URL:** [Backend Link](https://unthinkable-visual-product-matcher-backend-production.up.railway.app)
 
 ---
 
 ## 🌍 Experience the App
 
-You can experience the Visual Product Matcher app by visiting the [Frontend Link](https://silver-madeleine-241ed2.netlify.app).
+You can experience the Visual Product Matcher app by visiting the [Frontend Link](https://visualproductmatcherassignment.netlify.app).
 
 ## ⚙️ How It Works
 
