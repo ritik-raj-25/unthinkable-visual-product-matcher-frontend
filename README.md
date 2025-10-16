@@ -8,7 +8,7 @@ This repository contains the **frontend** of the Visual Product Matcher app, imp
 
 - **Frontend:** React (Vite)  
 - **Backend API:** Spring Boot backend [Backend Repository](https://github.com/ritik-raj-25/unthinkable-visual-product-backend) 
-- **Deployment:** Railway (backend), Railway (frontend)
+- **Deployment:** Railway (backend), Netlify (frontend)
 
 ---
 
